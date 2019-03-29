@@ -1,0 +1,15 @@
+{
+    "name": "bar-erc20-security-token",
+    "version": "1.0.0",
+    "description": "Security token contract of Collection of BAR",
+    "main": "index.js",
+    "repository": "https://github.com/naxatu/bar-erc20-security-token.git",
+    "author": "Maksym Tymchyk <maksym.tymchyk@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "truffle": "5.0.10",
+        "truffle-hdwallet-provider": "1.0.6",
+        "zeppelin-solidity": "1.12.0"
+    }
+}
